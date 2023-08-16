@@ -1,0 +1,27 @@
+.bg-sign {
+    height: 100vh;
+    background: url(/assets/img/mockup.jpg) no-repeat center;
+    background-size: cover;
+}
+
+::ng-deep .offcanvas-body {
+    padding: 1.5rem !important;
+}
+
+.shadow-custom {
+    box-shadow: 0 0 62px 70px #fff;
+}
+
+.icon-fo-message {
+    right: 15px;
+}
+
+.img-whatsapp {
+    position: absolute;
+    right: 15px;
+}
+
+.width-115px {
+    width: 115px !important;
+    height: 115px !important;
+}
